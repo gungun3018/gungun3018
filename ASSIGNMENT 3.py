@@ -240,7 +240,7 @@ s_2 = {2,4,6,8}
 s_3 = {1,5,9,13,17}
 
 #part a
-inter_s1_s2= s_1.intersection(s_2)
+inter_s1_s2= s_1^s_2
 print("Set of all elements that are in Set1 and Set2 but not both:", inter_s1_s2)
 
 #part b
