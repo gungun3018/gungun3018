@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data structures, Algorithms and Javascript**
+- 🌱 Previously I have worked at **Microsoft and Texas Instruments**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **Data Structures and Algorithms**
 
 - 📫 How to reach me **gungun3025@yahoo.com**
 
-- ⚡ Fun fact **Vampire Dairies Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
